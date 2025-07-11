@@ -226,3 +226,44 @@ nav{
     width: 500px;
     border-radius: 20px;
 }
+/*----form section---*/
+.frm-main{
+    display: flex;
+    justify-content: center;
+}
+.form-sec{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    padding: 50px 20px;
+}
+.form input{
+    margin: 5px;
+}
+.form-head h1{
+    font-size: 50px;
+}
+.in-item{
+    height: 35px;
+    border: none;
+    width: 250px;
+    margin: 0px;
+    border-radius: 5px;
+}
+.in-item2{
+    height: 80px;
+    border: none;
+    width: 255px;
+    border-radius: 5px;
+}
+.form-btn{
+    height: 35px;
+    width: 255px;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+textarea{
+    resize: none;
+}
